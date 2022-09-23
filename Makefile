@@ -2,7 +2,7 @@
 VERSION = 5
 PATCHLEVEL = 15
 SUBLEVEL = 68
-EXTRAVERSION =
+EXTRAVERSION = -linux4microchip+fpga-2022.09-rc1
 NAME = Trick or Treat
 
 # *DOCUMENTATION*
